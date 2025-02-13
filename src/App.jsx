@@ -185,7 +185,7 @@ function MarksEntry() {
         </div>
         <button type="submit">Submit Marks</button>
       </form>
-
+      
       <h3>Entered Marks Table</h3>
       <table>
         <thead>

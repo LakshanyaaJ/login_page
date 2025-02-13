@@ -129,8 +129,9 @@ body {
     margin-top: 20px;
     border-collapse: collapse;
     margin: auto;
-    border-radius: 40px;
+    border-radius: 4px;
     padding-left: 60px;
+    background-color: rgb(177, 177, 195);
   }
   
   table, th, td {
@@ -139,8 +140,8 @@ body {
   }
   
   th {
-    background-color: transparent;
-    color: #fff;
+    background-color: #fff;
+    color: #191717;
     padding: 12px;
     font-weight: 200;
   }
@@ -150,10 +151,13 @@ body {
   }
   
   tr:nth-child(even) {
-    background-color: #fff;
+    background-color: #0a0a0a;
+    color: #fff;
   }
   
   tr:hover {
-    background-color: #ddd;
+    background-color: #020202;
+    color: #fff;
   }
+  
   
